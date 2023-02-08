@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir --parents welcolm/to/school
+mkdir -p welcolm/to/school
