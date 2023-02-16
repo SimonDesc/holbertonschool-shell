@@ -1,0 +1,2 @@
+#!/bin/bash
+grep -v / | pr -2T | cut -d " " -f1
